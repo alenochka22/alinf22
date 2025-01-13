@@ -7,4 +7,3 @@
 /home/alenochka/build-untitled45-Desktop-Debug/moc_predefs.h
 /home/alenochka/build-untitled45-Desktop-Debug/ui_mainwindow.h
 /home/alenochka/build-untitled45-Desktop-Debug/untitled45
-          
